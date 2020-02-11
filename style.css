@@ -1,0 +1,23 @@
+body {
+  background-color: #58585b;
+}
+
+.button-wrapper {
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+}
+
+.button {
+  background-color: black;
+  color: white;
+}
+
+.container {
+  background-color: white;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
